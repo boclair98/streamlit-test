@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import datetime
-import joblib
 from geopy.geocoders import Nominatim
 from folium import plugins
 from keras.models import load_model
