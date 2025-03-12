@@ -10,7 +10,6 @@ urllib3
 streamlit
 streamlit_folium
 branca
-ssl
 matplotlib
 seaborn
 calendar
