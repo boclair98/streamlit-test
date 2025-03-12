@@ -19,3 +19,4 @@ joblib
 requests
 dateutil
 Pillow
+scikit-learn==1.2.2
